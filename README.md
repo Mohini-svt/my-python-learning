@@ -7,7 +7,7 @@ This repository documents my step-by-step journey of learning Python fundamental
 - Python basics
 - Variables & data types
 - Type casting
-- Control flow (coming soon)
+- Control flow 
 - Functions, lists, dictionaries (upcoming)
 
 ## Structure
