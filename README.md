@@ -11,8 +11,8 @@ This repository documents my step-by-step journey of learning Python fundamental
 - Functions, lists, dictionaries (upcoming)
 
 ## Structure
-- `Day 1.py`: Python basics & type conversion
-- 'Day 2.py': Control flow basics
+- Day 1.py : Python basics & type conversion
+- Day 2.py : Control flow basics
 
 ## Goal
 To build strong fundamentals before moving into advanced domains like
