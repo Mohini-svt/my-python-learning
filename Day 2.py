@@ -1,5 +1,9 @@
 # Grade Calculator program 
 
+# if: every if means what values we are executing?
+# elif: otherwise if.
+# else: everything else thta doesn't come under both if and elif.  
+
 name = input("Enter your name please:")
 print("Hello" + name)
 
