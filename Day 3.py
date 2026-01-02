@@ -9,16 +9,14 @@ print(len(notion)) #length of a string is also the last index of the string.
 
 
 
-
 # slicing of a string (it's basically accessing the parts of a string)
 # slicing has negative values too(-7,-8 etc) that go backward 
 # synatx - [starting index: ending index] ; where ending index is not included 
 
+
 print(notion[4:9])
-print(notion[ :9])
+print(notion[ :9]) #starts with first index which is 0.
 print(notion[0: ]) #length os string
-
-
 
 
 
@@ -42,3 +40,4 @@ print(str_3.find("developer"))
 
 #  #counts the no. of times a specific inputed substring occurs.
 print(str_3.count("am"))
+
