@@ -14,6 +14,7 @@ This repository documents my step-by-step journey of learning Python fundamental
 - Day 1.py : Python basics & type conversion
 - Day 2.py : Conditional statements (if/else)
 - Day 3.py : Strings(indexing, slicing and functions)
+- Day 4.py : Lists and Tuples
 
 ## Goal
 To build strong fundamentals before moving into advanced domains like
